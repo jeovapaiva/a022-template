@@ -1,0 +1,18 @@
+button{
+    background: black;
+    color: aqua;
+}
+
+/* button:hover{
+    background: red;
+    color: bisque;
+} */
+
+button:active{
+    background: pink;
+    color: black;
+}
+
+ body {
+    text-align: center;
+ }

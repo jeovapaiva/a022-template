@@ -29,9 +29,14 @@
   nav{
     padding: 20px;
     background-color: white;
+    position: sticky;
+    top: 0;
   }
   
   footer{
     background-color: #abd1c6;
     padding: 20px;
+  }
+  section.button:active{
+    background: orangered;
   }
